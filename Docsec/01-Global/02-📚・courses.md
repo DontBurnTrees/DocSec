@@ -20,7 +20,7 @@
 ### Job simulations
 - [Forage](https://www.theforage.com/simulations?careers=security)
 
-### Disclaimer
+## Disclaimer
 - EN : This is not an exhaustive list — other courses on these topics may also be available on the platforms shared in (faire lien to ctf platforms).
 
 - FR : Ce n’est pas une liste exhaustive — d'autres cours sur ces sujets peuvent également être disponibles sur les plateformes partagées dans (faire lien).
