@@ -56,6 +56,6 @@
 
 ## ⚠️ Disclaimer
 
-- EN : Descriptions are not exhaustive — channels without a specific category are generally too broad to fit into a single classification.
+- EN : Descriptions are not exhaustive | channels without a specific category are generally too broad to fit into a single classification.
 
-- FR : Les descriptions ne sont pas exhaustives — les chaînes sans catégorie spécifique sont généralement trop généralistes pour être classées dans une seule catégorie.
+- FR : Les descriptions ne sont pas exhaustives | les chaînes sans catégorie spécifique sont généralement trop généralistes pour être classées dans une seule catégorie.
