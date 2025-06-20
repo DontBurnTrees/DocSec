@@ -5,6 +5,7 @@
 - [GreHack](https://github.com/GreHack/CTF-challs) - challs with their solves
 - [TryHackMe](https://jesusgavancho.gitbook.io/writeups) - by jesusgavancho
 - [THM/HTB](https://github.com/jesusgavancho/TryHackMe_and_HackTheBox) - by jesusgavancho
+- [NOPSctf](https://github.com/N0PSctf) - official writeups
 
 ## French 🇫🇷
 - [ENOENT](https://bitsdeep.com/) - writeups
