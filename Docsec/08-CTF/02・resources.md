@@ -1,4 +1,4 @@
-# Ressources 
+# Resources 
 
 ## CTF Playbooks
 - [tcbutler320](https://github.com/tcbutler320/ctf-playbook/blob/master/README.md)
