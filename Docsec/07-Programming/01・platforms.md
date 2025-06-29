@@ -7,6 +7,6 @@
 - [Sololearn](https://www.sololearn.com/en/)
 
 ### 📢 Disclaimer
-- EN : This is not an exhaustive list — other courses on these topics may also be available on the platforms shared in <#1355236406548496384>.
+- EN : This is not an exhaustive list — other courses on these topics may also be available on the platforms shared in [courses](https://github.com/DontBurnTrees/DocSec/blob/main/Docsec/01-Global/02%E3%83%BBcourses.md).
 
-- FR : Ce n’est pas une liste exhaustive — d'autres cours sur ces sujets peuvent également être disponibles sur les plateformes partagées dans <#1355236406548496384>.
+- FR : Ce n’est pas une liste exhaustive — d'autres cours sur ces sujets peuvent également être disponibles sur les plateformes partagées dans [courses](https://github.com/DontBurnTrees/DocSec/blob/main/Docsec/01-Global/02%E3%83%BBcourses.md).
