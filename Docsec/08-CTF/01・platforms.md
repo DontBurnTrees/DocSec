@@ -12,6 +12,8 @@
 - [Newbie Contest](https://www.newbiecontest.org/) 
 - [hackthissite](https://www.hackthissite.org/) 
 - [Tower CTF](https://www.tower-ctf.fr/) 
+- [Smash The Stack](https://www.smashthestack.org/)
+- [netgarage.io](https://io.netgarage.org/)
 - [CatTheFlag](https://cattheflag.org/)
 - [Flag4jobs](https://app.flag4jobs.com/)
 - [We Chall](https://www.wechall.net/) 
