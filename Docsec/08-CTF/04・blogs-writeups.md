@@ -1,15 +1,27 @@
 # Blogs & writeups
 
 ## English
+- [Mandiant](https://www.mandiant.com/) - by Google (blogs in the resources section)
+- [Project Zero](https://googleprojectzero.blogspot.com/) by Google
+- [Hackndo](https://en.hackndo.com/) - by Pixis (also available in french 🇫🇷 )
+- [Podalirius](https://podalirius.net/en/) - by Podalirius (also available in french 🇫🇷 )
+- [ThinkLoveShare](https://thinkloveshare.com/) - by Laluka
 - [Aperikube](https://www.aperikube.fr/) –  writeups
 - [GreHack](https://github.com/GreHack/CTF-challs) - challs with their solves
+- [itm4n's blog](https://itm4n.github.io/) - by itm4n
+- [harmj0y](https://blog.harmj0y.net/) - by Will Schroeder
+- [SpecterOps](https://specterops.io/blog/) 
+- [Elad Shamir](https://eladshamir.com/) - by  Elad Shamir
+- [dikjanm.io](https://dirkjanm.io/) - by Dirk-jan Mollema
 - [TryHackMe](https://jesusgavancho.gitbook.io/writeups) - by jesusgavancho
 - [THM/HTB](https://github.com/jesusgavancho/TryHackMe_and_HackTheBox) - by jesusgavancho
 - [NOPSctf](https://github.com/N0PSctf) - official writeups
 
 ## French 🇫🇷
 - [ENOENT](https://bitsdeep.com/) - writeups
+- [Daily Security](https://www.dailysecurity.fr/) - by Geluchat
 - [Mizu](https://mizu.re/) - writeups & articles
+- [Inf0sec](https://web.archive.org/web/20230402044929/https://inf0sec.fr/) - by Matthieu (archivé)
 - [TRIKKSS](https://trikkss.github.io/) - writeups
 - [Mizu](https://mizu.re/) - writeups & articles
 - [Tanguybron](https://tanguybron.gitlab.io/404ctf-writeups/) – writeups
