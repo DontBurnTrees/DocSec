@@ -9,7 +9,7 @@ We do not create knowledge, we organize it.
 🇺🇸 | While the documentation is primarily written in English, some of the shared resources are available in French to support a broader audience.
 
 
-🇫🇷 | Bien que la documentation soit principalement rédigée en anglais, certaines ressources partagées sont disponibles en français, afin de soutenir un public plus large.
+🇫🇷 | Bien que la documentation soit principalement rédigée en anglais, certaines ressources sont disponibles en français, afin de soutenir un public plus large.
 
 ##  How to contribute 
 No need to fork or open a pull request!
