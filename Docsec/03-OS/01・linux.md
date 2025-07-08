@@ -1,4 +1,4 @@
-# Courses 
+# Linux 
 
 ##  Fundamentals
 - [Linux Journey](https://linuxjourney.com/) – Linux-dedicated platform available in multiple languages
