@@ -6,6 +6,7 @@
 - [HTB Cube Talks](https://creators.spotify.com/pod/profile/hack-the-box-cube-talks/) – weekly podcasts
 - [Security Noise](https://www.trustedsec.com/resources?sections=podcasts) - by TrusteSec
 - [Authorised Access](https://open.spotify.com/show/09w497cR0nhpp6evVY2SWg) - by Microsoft
+- [Critical Thinking](https://www.criticalthinkingpodcast.io/) - by rhynorater & Rez0
 
 ### French podcasts 🇫🇷 
 - [CyberTalk](https://www.youtube.com/@HacktBack/podcasts) - by HacktBack
