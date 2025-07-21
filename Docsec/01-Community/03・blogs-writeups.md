@@ -17,6 +17,7 @@
 - [THM/HTB](https://github.com/jesusgavancho/TryHackMe_and_HackTheBox) - by jesusgavancho
 - [NOPSctf](https://github.com/N0PSctf) - official writeups
 - [7h30th3r0n3](https://7h30th3r0n3.fr/) - by 7h30th3r0n3
+- [Valgrind](https://www.valgrindc.tf) - international CTF team
 
 ## French 🇫🇷
 - [ENOENT](https://bitsdeep.com/) - writeups
