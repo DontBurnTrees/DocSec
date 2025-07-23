@@ -1,7 +1,7 @@
 # Podcasts 
 
 ### English podcasts
-- [Darknet Diaries](https://youtube.com/playlist?list=PLtN43kak3fFEEDNo0ks9QVKYfQpT2yUEo&si=yfziI_cD404VXUPm) - by Jack Rhysider
+- [Darknet Diaries](https://darknetdiaries.com/) - by Jack Rhysider
 - [John Hammond](https://www.youtube.com/@_JohnHammond/podcasts) 
 - [HTB Cube Talks](https://creators.spotify.com/pod/profile/hack-the-box-cube-talks/) – weekly podcasts
 - [Security Noise](https://www.trustedsec.com/resources?sections=podcasts) - by TrusteSec
