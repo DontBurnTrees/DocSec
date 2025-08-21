@@ -18,6 +18,7 @@
 - [NOPSctf](https://github.com/N0PSctf) - official writeups
 - [7h30th3r0n3](https://7h30th3r0n3.fr/) - by 7h30th3r0n3
 - [Valgrind](https://www.valgrindc.tf) - international CTF team
+- [RatSec Blog](https://blog.hackxpert.com/) - by RatSec 
 
 ## French 🇫🇷
 - [ENOENT](https://bitsdeep.com/) - writeups
