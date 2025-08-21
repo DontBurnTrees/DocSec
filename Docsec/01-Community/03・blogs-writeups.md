@@ -20,7 +20,7 @@
 - [Valgrind](https://www.valgrindc.tf) - international CTF team
 - [RatSec Blog](https://blog.hackxpert.com/) - by RatSec 
 
-## French 🇫🇷
+## 🇫🇷 French 
 - [ENOENT](https://bitsdeep.com/) - writeups
 - [Daily Security](https://www.dailysecurity.fr/) - by Geluchat
 - [Mizu](https://mizu.re/) - writeups & articles
@@ -30,3 +30,9 @@
 - [Tanguybron](https://tanguybron.gitlab.io/404ctf-writeups/) – writeups
 - [Atom](https://at0m.space/) - BSCP retex
 - [Cartoone](https://cartoone222.github.io/) - articles
+
+## ⚠️ Disclaimer
+
+- EN: If you are the author of any content listed here and do not wish your blog to be included, contact us and we will remove it immediately.
+
+- FR: Si vous êtes l’auteur d’un des contenus listés et ne souhaitez pas que votre blog soit inclus, contactez-nous et nous le retirerons immédiatement.
