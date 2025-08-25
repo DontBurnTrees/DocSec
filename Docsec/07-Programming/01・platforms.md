@@ -6,6 +6,10 @@
 - [The Odin Project](https://www.theodinproject.com/)
 - [Sololearn](https://www.sololearn.com/en/)
 
+## Advanced
+- [Codeforce](https://codeforces.com/)
+- [LeetCode](https://leetcode.com/)
+
 ### 📢 Disclaimer
 - EN : This is not an exhaustive list — other courses on these topics may also be available on the platforms shared in <#1355236406548496384>.
 
