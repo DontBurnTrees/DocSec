@@ -1,6 +1,7 @@
 # Blogs & writeups
 
 ## English
+- [James Kettle](https://jameskettle.com/) -
 - [Mandiant](https://www.mandiant.com/) - by Google (blogs in the resources section)
 - [Project Zero](https://googleprojectzero.blogspot.com/) by Google
 - [Hackndo](https://en.hackndo.com/) - by Pixis (also available in french 🇫🇷 )
