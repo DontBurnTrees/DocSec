@@ -28,12 +28,12 @@
 
 
 # French-Speaking Channels 🇫🇷
+- [HacktBack](https://www.youtube.com/@HacktBack) – Tips & Vlogs
 - [Waked XY](https://www.youtube.com/@wakedxy) –
 
 ## Conférences & Talks
-- [HacktBack](https://www.youtube.com/@HacktBack) – Vlogs & confs 
 - [Laluka](https://www.youtube.com/@TheLaluka) – Web 
-- [Root-Me](https://www.youtube.com/@rootme_org) – CTF & tuto
+- [Root-Me](https://www.youtube.com/@rootme_org) –
 
 ## Pratique & Tutoriels
 - [HackingIsland](https://www.youtube.com/@hackingisland5769) – W
@@ -41,8 +41,10 @@
 - [ZeroBullshit](https://www.youtube.com/@zer0bullshit) – 
 
 ## Apprentissage & Éducation
-- [Hafnium](https://www.youtube.com/@HafniumSecuriteInformatique) – Vulgarisation  
+- [Hafnium](https://www.youtube.com/@HafniumSecuriteInformatique) –
 - [Parlons Cyber](https://www.youtube.com/@ParlonsCyber) – OSINT & autre
+- [Frozenk](https://www.youtube.com/@FrozenKwa) –
+
 
 ## Actualités 
 - [RINSKINTEL MEDIA](https://www.youtube.com/@RISKINTEL-TV)  – 
