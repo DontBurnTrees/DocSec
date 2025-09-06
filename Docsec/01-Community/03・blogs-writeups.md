@@ -1,7 +1,6 @@
 # Blogs & writeups
 
 ## English
-- [James Kettle](https://jameskettle.com/) -
 - [Mandiant](https://www.mandiant.com/) - by Google (blogs in the resources section)
 - [Project Zero](https://googleprojectzero.blogspot.com/) by Google
 - [Hackndo](https://en.hackndo.com/) - by Pixis (also available in french 🇫🇷 )
@@ -20,6 +19,7 @@
 - [7h30th3r0n3](https://7h30th3r0n3.fr/) - by 7h30th3r0n3
 - [Valgrind](https://www.valgrindc.tf) - international CTF team
 - [RatSec Blog](https://blog.hackxpert.com/) - by RatSec 
+- [Oxdf](https://0xdf.gitlab.io/) - by Oxdf
 
 ## 🇫🇷 French 
 - [ENOENT](https://bitsdeep.com/) - writeups
