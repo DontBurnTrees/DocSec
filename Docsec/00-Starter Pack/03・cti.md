@@ -3,6 +3,7 @@
 ## Practical tools
 - [VirusTotal](https://www.virustotal.com/gui/home)  - analyze suspicious files and URLs
 - [Hav I Been Pwnd](https://haveibeenpwned.com/)  - check if your email or domain has been leaked in a data breach
+- [LeakCheck](https://leakcheck.io/)  - check if your email or domain has been leaked in a data breach
 - [AbuseIPDB](https://www.abuseipdb.com/)  - check if an IP address has been reported as malicious
 - [Whois](https://www.whois.com/)  - gather info about domain names
 
