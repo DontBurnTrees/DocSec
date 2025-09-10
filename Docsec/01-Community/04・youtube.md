@@ -30,6 +30,7 @@
 
 # French-Speaking Channels 🇫🇷
 - [Waked XY](https://www.youtube.com/@wakedxy) –
+- [Frozenk](https://www.youtube.com/@FrozenKwa) –
 
 ## Conférences & Talks
 - [HacktBack](https://www.youtube.com/@HacktBack) – Vlogs & confs 
