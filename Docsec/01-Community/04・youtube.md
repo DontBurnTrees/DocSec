@@ -9,6 +9,7 @@
 ## Hands-On & Practical
 - [IppSec](https://www.youtube.com/@IppSec) – HackTheBox 
 - [The Helpful Hacker](https://www.youtube.com/@The_Helpful_Hacker) – TryHackMe 
+- [Djalil Ayed](https://www.youtube.com/@djalilayed) - TryHackme
 
 ## Learning & Education
 - [David Bombal](https://www.youtube.com/@davidbombal) – Networks 
@@ -28,23 +29,22 @@
 
 
 # French-Speaking Channels 🇫🇷
-- [HacktBack](https://www.youtube.com/@HacktBack) – Tips & Vlogs
 - [Waked XY](https://www.youtube.com/@wakedxy) –
 
 ## Conférences & Talks
+- [HacktBack](https://www.youtube.com/@HacktBack) – Vlogs & confs 
 - [Laluka](https://www.youtube.com/@TheLaluka) – Web 
-- [Root-Me](https://www.youtube.com/@rootme_org) –
+- [Root-Me](https://www.youtube.com/@rootme_org) – CTF & tuto
 
 ## Pratique & Tutoriels
 - [HackingIsland](https://www.youtube.com/@hackingisland5769) – W
 - [HackinGeek](https://www.youtube.com/@HackinGeeK/) –
 - [ZeroBullshit](https://www.youtube.com/@zer0bullshit) – 
+- [Cyberretta](https://www.youtube.com/@Cyberretta) - THM & HTB
 
 ## Apprentissage & Éducation
-- [Hafnium](https://www.youtube.com/@HafniumSecuriteInformatique) –
+- [Hafnium](https://www.youtube.com/@HafniumSecuriteInformatique) – Vulgarisation  
 - [Parlons Cyber](https://www.youtube.com/@ParlonsCyber) – OSINT & autre
-- [Frozenk](https://www.youtube.com/@FrozenKwa) –
-
 
 ## Actualités 
 - [RINSKINTEL MEDIA](https://www.youtube.com/@RISKINTEL-TV)  – 
