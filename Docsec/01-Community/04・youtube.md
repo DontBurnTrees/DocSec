@@ -42,6 +42,7 @@
 - [HackinGeek](https://www.youtube.com/@HackinGeeK/) –
 - [ZeroBullshit](https://www.youtube.com/@zer0bullshit) – 
 - [Cyberretta](https://www.youtube.com/@Cyberretta) - THM & HTB
+- [Noobosaurus R3x](https://www.youtube.com/@NoobosaurusR3x) - 
 
 ## Apprentissage & Éducation
 - [Hafnium](https://www.youtube.com/@HafniumSecuriteInformatique) – Vulgarisation  
