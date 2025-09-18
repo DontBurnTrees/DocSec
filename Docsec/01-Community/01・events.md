@@ -12,6 +12,8 @@
 - [GreHack](https://grehack.fr/) – France:Grenoble
 - [STHACK](https://sthack.fr/) – France:Bordeaux
 - [BREIZHCTF](https://www.breizhctf.com/) – France:Rennes
+- [SSTIC](https://www.sstic.org/) – France:Rennes
+- [Barbhack](https://www.barbhack.fr/2025/fr/) – France:Toulon
 
 ## Other Notable CTF & Security Events
 - [Owasp](https://owasp.org/chapters/) - Intercontinental
