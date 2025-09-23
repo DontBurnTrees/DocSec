@@ -19,3 +19,4 @@
 - [La cyber expliqué a ma grand-mère](https://podcast.ausha.co/la-cyber-securite-expliquee-a-ma-grand-mere)
 - [La matrice a buggé](https://open.spotify.com/show/1xmQZcspaJFdaqq56Y90aY)
 - [La French Connection](https://securite.fm/)
+- [La Tech' dans les Nuages](https://latechdanslesnuages.podcast2000.fr/) - by Superboki & Néo
