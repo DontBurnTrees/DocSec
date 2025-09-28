@@ -21,6 +21,8 @@
 - [Valgrind](https://www.valgrindc.tf) - international CTF team
 - [RatSec Blog](https://blog.hackxpert.com/) - by RatSec 
 - [Oxdf](https://0xdf.gitlab.io/) - by Oxdf
+- [Pirate Moo](https://notes.piratemoo.com/) - diverse
+- [Arsouyes](https://www.arsouyes.org/) - by aryliin & tbowan (also available in french 🇫🇷 )
 
 ## 🇫🇷 French 
 - [ENOENT](https://bitsdeep.com/) - writeups
