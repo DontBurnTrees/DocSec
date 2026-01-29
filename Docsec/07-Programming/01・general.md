@@ -5,7 +5,7 @@
 - [Codédex.io](https://www.codedex.io/home) 
 - [The Odin Project](https://www.theodinproject.com/)
 - [Sololearn](https://www.sololearn.com/en/)
-- [France ioi](https://www.france-ioi.org/))
+- [France ioi](https://www.france-ioi.org/)
 - [Codeforce](https://codeforces.com/)
 - [LeetCode](https://leetcode.com/)
 
