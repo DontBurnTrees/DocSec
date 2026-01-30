@@ -1,11 +1,13 @@
 #  CTF & Hacking Practice Platforms
 
-## General & Beginner-Friendly
+## General
 - [TryHackMe](https://tryhackme.com/) – guided rooms, great for learning step by step
 - [Hack The Box](https://www.hackthebox.com/) – real-world style machines and challenges
 - [VulnLab](https://www.vulnlab.com/) - 
 - [CTFLearn](https://ctflearn.com/) – short, accessible challenges for all levels
 - [PicoCTF – Practice](https://play.picoctf.org/practice) – beginner-friendly CTFs made by professionals
+- [RingZero](https://ringzer0ctf.com/home)
+- [pwn college](https://pwn.college/)
 
 ## Hidden Gems & Niche Platforms
 - [LearnCyber](https://learn-cyber.net/) 
