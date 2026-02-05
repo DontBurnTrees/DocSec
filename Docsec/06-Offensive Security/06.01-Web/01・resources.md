@@ -16,3 +16,4 @@
 - [Burp Suite](https://portswigger.net/burp)
 - [Caido](https://caido.io/)
 - [localhost.run](https://localhost.run/)
+- [csp evaluator](https://csp-evaluator.withgoogle.com/)
