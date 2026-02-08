@@ -4,6 +4,7 @@
 - [James Kettle](https://jameskettle.com/) -
 - [Mandiant](https://www.mandiant.com/) - by Google (blogs in the resources section)
 - [Project Zero](https://googleprojectzero.blogspot.com/) by Google
+- [MDN Blog](https://developer.mozilla.org/en-US/blog/) - by Mozilla
 - [Hackndo](https://en.hackndo.com/) - by Pixis (also available in french 🇫🇷 )
 - [Podalirius](https://podalirius.net/en/) - by Podalirius (also available in french 🇫🇷 )
 - [ThinkLoveShare](https://thinkloveshare.com/) - by Laluka
@@ -34,6 +35,7 @@
 - [Tanguybron](https://tanguybron.gitlab.io/404ctf-writeups/) – writeups
 - [Atom](https://at0m.space/) - BSCP retex
 - [Cartoone](https://cartoone222.github.io/) - articles
+- [Nishacid](https://nishacid.guru/) - writeups & articles
 
 ## ⚠️ Disclaimer
 
