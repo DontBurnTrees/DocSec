@@ -11,3 +11,4 @@
 
 ### Documents & Books
 - [RedTeam Guide](https://redteam.guide/docs/about_the_book)
+- [AttackerKB](https://attackerkb.com/) - CVE feed
